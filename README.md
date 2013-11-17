@@ -31,5 +31,5 @@ Example:
             });
           }
 
-Note, function call could be made in both direction and there are no check as in deferred if function was already called,
+Note, function call could be made in both directions and there are no check as in deferred if function was already called,
 etc.
