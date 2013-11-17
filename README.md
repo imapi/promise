@@ -9,8 +9,8 @@ There are no dependencies to other libraries and code should work under all brow
 
 ## Usage
 
-You create a promise with "new Promise()" and return it instance. Each promise object have the methods "then" which will 
-be called when promise was rejected, resolved, updated or terminated. You can also changed the method names if needed.
+Create a promise with "new Promise()" and return its instance. Each promise object have the methods "then" which will 
+be called when promise was rejected, resolved, updated or terminated. Method names could also be changed if needed.
 Example:
 
           { 
